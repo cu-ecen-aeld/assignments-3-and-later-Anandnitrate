@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include<syslog.h>
 #include<string.h>
-
+//Author: anandnitrate
 int main(int argc, char *argv[])
 {
 	FILE *fd;
