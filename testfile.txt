@@ -1,0 +1,4 @@
+/home/ubuntu/02_Courses/assignment-1-Anandnitrate/assignment-autotest/test/assignment3/Test_systemcalls.c:61:test_exec_calls:FAIL: The exec() function should have returned false since echo was not specified with absolute path as a command and PATH expansion is not performed.
+Running tests at /home/ubuntu/02_Courses/assignment-1-Anandnitrate/assignment-autotest/test/assignment3/Test_systemcalls.c : function test_exec_redirect_calls
+home is /home/ubuntu
+home is /home/ubuntu
